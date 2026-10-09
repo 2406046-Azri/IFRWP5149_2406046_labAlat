@@ -5,7 +5,7 @@ Identitas    : Moch Azriel Naufan H
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkazril&label=Profile views&color=0e75b6&style=flat" alt="kkazril" /> </p>
 
-- 🌱 I'm currently learning **Pengenalan Lingkungan Praktikum dan kakas Pemodelan UML**
+- 🌱 I'm currently learning **Pertemuan 2 UNIFIED MODELLING LANGUAGE (UML)**
 
 - ⚡ Fun fact **
 **
