@@ -5,7 +5,7 @@ Identitas    : Moch Azriel Naufan H
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkazril&label=Profile views&color=0e75b6&style=flat" alt="kkazril" /> </p>
 
-- 🌱 I'm currently learning **Pertemuan 2 UNIFIED MODELLING LANGUAGE (UML)**
+- 🌱 I'm currently learning **PERTEMUAN 4 USE CASE DIAGRAM LANJUTAN: GENERALIZATION DAN COLLABORATION**
 
 - ⚡ Fun fact **
 **
